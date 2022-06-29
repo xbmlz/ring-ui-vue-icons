@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="11.0784" y1="18.6927" x2="17.5923" y2="12.1788" gradientTransform="matrix(64,0,0,64,0,0)">
+      <stop offset="0.1075" style="stop-color:rgb(78.039216%,34.117647%,73.72549%);stop-opacity:1;" />
+      <stop offset="0.2138" style="stop-color:rgb(81.568627%,37.647059%,60.392157%);stop-opacity:1;" />
+      <stop offset="0.4254" style="stop-color:rgb(88.235294%,44.705882%,36.078431%);stop-opacity:1;" />
+      <stop offset="0.6048" style="stop-color:rgb(93.333333%,49.411765%,18.431373%);stop-opacity:1;" />
+      <stop offset="0.743" style="stop-color:rgb(96.078431%,52.54902%,7.45098%);stop-opacity:1;" />
+      <stop offset="0.8232" style="stop-color:rgb(97.254902%,53.72549%,3.529412%);stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <g id="surface1">
+    <path style=" stroke:none;fill-rule:evenodd;fill:rgb(60.392157%,65.490196%,69.019608%);fill-opacity:0.8;" d="M 448 64 L 192 320 L 448 320 Z M 448 64 " />
+    <path style=" stroke:none;fill-rule:evenodd;fill:rgb(60.392157%,65.490196%,69.019608%);fill-opacity:0.8;" d="M 512 384 L 512 64 L 832 64 L 832 512 L 512 512 L 512 960 L 192 960 L 192 384 Z M 512 384 " />
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(5.490196%,68.235294%,100%);fill-opacity:1;" d="M 576 1024 L 800.75 799.25 L 1024 1024 Z M 576 1024 " />
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(5.490196%,68.235294%,100%);fill-opacity:1;" d="M 576 576 L 800.75 576 L 576 818.667969 Z M 576 576 " />
+    <path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 800.75 576 L 576 812.691406 L 576 1024 L 1024 576 Z M 800.75 576 " />
+  </g>
+</svg>

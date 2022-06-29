@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <path style=" stroke:none;fill-rule:evenodd;fill:rgb(60.392157%,65.490196%,69.019608%);fill-opacity:0.8;" d="M 448 64 L 192 320 L 448 320 Z M 448 64 " />
+  <path style=" stroke:none;fill-rule:evenodd;fill:rgb(60.392157%,65.490196%,69.019608%);fill-opacity:0.8;" d="M 640 896 L 640 960 L 192 960 L 192 384 L 512 384 L 512 64 L 832 64 L 832 448 L 640 448 L 640 640 L 448 640 L 448 896 Z M 640 896 " />
+  <path style=" stroke:none;fill-rule:evenodd;fill:rgb(60.392157%,65.490196%,69.019608%);fill-opacity:1;" d="M 832 704 L 1024 704 L 1024 832 L 832 832 L 832 1024 L 704 1024 L 704 832 L 512 832 L 512 704 L 704 704 L 704 512 L 832 512 Z M 832 704 " />
+</svg>

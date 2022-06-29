@@ -16,7 +16,7 @@ import { icons } from '@ring-ui-vue/icons-vue/global'
 <style>
 .icon {
   height: 24px;
-  color: #0f5b99;
-  margin: 0 8px;
+  color: #888888;
+  margin: 8px;
 }
 </style>
