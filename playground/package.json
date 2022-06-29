@@ -1,5 +1,5 @@
 {
-  "name": "@element-plus/icons-playground",
+  "name": "@ring-ui-vue/icons-playground",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -8,8 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@element-plus/icons-svg": "workspace:*",
-    "@element-plus/icons-vue": "workspace:*",
+    "@ring-ui-vue/icons-svg": "workspace:*",
+    "@ring-ui-vue/icons-vue": "workspace:*",
     "vue": "^3.2.36"
   },
   "devDependencies": {

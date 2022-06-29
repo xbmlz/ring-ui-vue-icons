@@ -1,5 +1,5 @@
 {
-  "name": "@element-plus/icons-vue",
+  "name": "@ring-ui-vue/icons-vue",
   "version": "2.0.6",
   "description": "Vue components of Element Plus Icons collection.",
   "type": "module",
@@ -7,16 +7,16 @@
     "icon",
     "svg",
     "vue",
-    "element-plus"
+    "ring-ui-vue"
   ],
   "license": "MIT",
-  "homepage": "https://element-plus.org/",
+  "homepage": "",
   "bugs": {
-    "url": "https://github.com/element-plus/element-plus-icons/issues"
+    "url": "https://github.com/xbmlz/ring-ui-vue-icons/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/element-plus/element-plus-icons.git",
+    "url": "git+https://github.com/xbmlz/ring-ui-vue-icons.git",
     "directory": "packages/vue"
   },
   "files": [
@@ -56,7 +56,7 @@
     "vue": "^3.2.0"
   },
   "devDependencies": {
-    "@element-plus/icons-svg": "workspace:*",
+    "@ring-ui-vue/icons-svg": "workspace:*",
     "@pnpm/find-workspace-dir": "^4.0.1",
     "@pnpm/find-workspace-packages": "^4.0.9",
     "@pnpm/logger": "^4.0.0",
