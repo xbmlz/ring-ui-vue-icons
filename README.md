@@ -8,6 +8,8 @@
 - [`@ring-ui-vue-icons/icons-svg`](https://www.npmjs.com/package/@ring-ui-vue-icons/icons-svg) raw svg files
 - [`@ring-ui-vue-icons/icons-vue`](https://www.npmjs.com/package/@ring-ui-vue-icons/icons-vue) vue components
 
+![](https://cdn.jsdelivr.net/gh/xbmlz/static@main/img/202206301021239.png)
+
 ## 使用
 
 ### 安装
